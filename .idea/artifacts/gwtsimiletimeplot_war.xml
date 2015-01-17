@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gwtsimiletimeplot:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="gwtsimiletimeplot-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gwtsimiletimeplot:war exploded" />
+    </root>
+  </artifact>
+</component>
